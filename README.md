@@ -76,6 +76,7 @@ Será fornecido um dataset fictício de transações de clientes com as seguinte
 ## Entregáveis
 - Link para o **workspace no Databricks Free Edition** com os notebooks.
 - Relatório final (Markdown no Databricks ou PDF exportado).
+- Prazo de entrega é de até 7 dias após o recebimento do case.
 
 ---
 
