@@ -11,7 +11,7 @@ O objetivo é testar conhecimentos práticos em **engenharia de dados** e **mach
 2. **Transformação e limpeza**: Tratar valores nulos, duplicados e inconsistências.
 3. **Análise exploratória**: Gerar estatísticas descritivas e visualizações.
 4. **Feature Engineering**: Criar novas variáveis relevantes para o modelo.
-5. **Treinamento de modelo**: Criar um modelo simples de classificação (ex.: regressão logística ou árvore de decisão).
+5. **Treinamento de modelo (opcional)**: Criar um modelo simples de classificação (ex.: regressão logística ou árvore de decisão).
 6. **Avaliação**: Medir a performance com métricas adequadas (AUC, F1, Precision/Recall).
 7. **Entrega**: Organizar o código em **notebooks Databricks** e gerar um **relatório final** com os achados.
 
@@ -50,7 +50,7 @@ Será fornecido um dataset fictício de transações de clientes com as seguinte
 - Criar variáveis agregadas por cliente (ex.: total gasto no último mês).
 - Codificar variáveis categóricas (`categoria` → One Hot Encoding).
 
-### 5. Machine Learning
+### 5. Machine Learning (opcional)
 - Separar os dados em treino (70%) e teste (30%).
 - Treinar um modelo de classificação simples.
 - Avaliar a performance do modelo com métricas adequadas.
