@@ -59,7 +59,7 @@ Será fornecido um dataset fictício de transações de clientes com as seguinte
 - Criar um notebook final explicando:
   - As transformações realizadas.
   - Insights dos dados.
-  - Performance do modelo.
+  - Performance do modelo. (opcional)
   - Limitações e sugestões de melhorias.
 
 ---
@@ -67,8 +67,8 @@ Será fornecido um dataset fictício de transações de clientes com as seguinte
 ## Critérios de Avaliação
 - Clareza e organização do código.
 - Qualidade do tratamento de dados.
-- Raciocínio analítico nas transformações e modelagem.
-- Justificativa para escolhas de técnicas e métricas.
+- Raciocínio analítico nas transformações e modelagem. (opcional)
+- Justificativa para escolhas de técnicas e métricas. (opcional)
 - Qualidade da comunicação no relatório final.
 
 ---
